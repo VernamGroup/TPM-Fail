@@ -1,4 +1,5 @@
 # TPM-Fail
 TPM timing attack PoC
 
-Content coming soon.
+Requires: perl >= 5. 
+Tested with 64-bit Linux. 
