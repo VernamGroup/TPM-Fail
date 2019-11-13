@@ -1,0 +1,7 @@
+$fwbin = <<"EOC";
+        $uuid   ^__^
+         $uuid  ($fwver)\\_______
+            (__)\\       )\\/\\
+             $binid ||----w |
+                ||     ||
+EOC
